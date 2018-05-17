@@ -94,7 +94,7 @@ body {
   margin-bottom: 10px;
 }
 .ticker-wrap {
-  width: 100%;
+  /* width: 100%; */
   overflow: hidden;
   height: 32px;
   background-color: #a42423;
