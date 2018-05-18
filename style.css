@@ -92,9 +92,10 @@ body {
   position: relative;
   -webkit-font-smoothing: antialiased;
   margin-bottom: 10px;
+  overflow: hidden;
 }
 .ticker-wrap {
-  /* width: 100%; */
+  width: 100%;
   overflow: hidden;
   height: 32px;
   background-color: #a42423;
