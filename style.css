@@ -149,7 +149,7 @@ body {
 .article-container {
   direction: rtl;
   padding: 0 10px;
-  padding-bottom:0;
+  padding-bottom: 0;
 }
 .article-container p + p {
   margin-top: 12px;
@@ -163,7 +163,6 @@ body {
   align-items: center;
   width: 50%;
   margin: 15px auto;
-  
 }
 
 .share-icons-wrap {
@@ -182,7 +181,6 @@ body {
 }
 .video-container video {
   width: 100%;
-  
 }
 .video-quote {
   padding: 0 10px;
@@ -206,7 +204,6 @@ body {
 .text-divider .text {
   font-weight: 100;
   letter-spacing: 0.7px;
-  
 }
 
 .image-wrapper {
@@ -214,4 +211,27 @@ body {
 }
 .image-wrapper img {
   width: 100%;
+}
+
+.cell {
+  height: 90px;
+  background-color: #a42423;
+  display: flex;
+  margin-bottom: 10px;
+}
+.cell:nth-child(even) {
+  background-color: #000052;
+}
+
+.cell-content {
+  color: white;
+  width: 80%;
+  margin: auto;
+  font-size: 1.1em;
+  padding: 10px;
+  text-align: right;
+  direction: rtl;
+}
+.cell-img {
+  width: 20%;
 }
