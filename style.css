@@ -25,7 +25,7 @@ body {
 }
 
 body {
-  font-size: 16px;
+  font-size: 18px;
 }
 .hero-bg {
   width: 100%;
@@ -233,7 +233,7 @@ body {
   direction: rtl;
 }
 .cell-img {
-  width: 120px;
+  width: 110px;
 }
 
 .img-title{
