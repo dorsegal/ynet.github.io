@@ -244,3 +244,10 @@ body {
   font-size: 2em;
   color: grey;
 }
+
+.image-subtitle-container {
+  padding: 0 10px;
+  direction: rtl;
+  padding-bottom: 10px;
+  color: grey;
+}
