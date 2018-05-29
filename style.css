@@ -222,6 +222,7 @@ body {
   background-color: #a42423;
   display: flex;
   margin-bottom: 12px;
+  font-size: 18px;
 }
 .cell:nth-child(even) {
   background-color: #001c3b;
