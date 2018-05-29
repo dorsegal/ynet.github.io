@@ -30,7 +30,7 @@ body {
 .hero-bg {
   width: 100%;
   padding-bottom: 57%;
-  background-image: url(./assets/hero-bibi.jpg);
+  background-image: url(./assets/hero-bibi.png);
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -201,9 +201,13 @@ body {
   font-weight: 100;
   margin: 12px 0;
 }
-.text-divider .text {
+.text-divider .text,
+.text-divider .text:visited  {
   font-weight: 100;
   letter-spacing: 0.7px;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
 
 .image-wrapper {
