@@ -219,13 +219,13 @@ body {
 
 .cell {
   height: 100px;
-  background-color: #a42423;
+  background-color: #001c3b;
   display: flex;
   margin-bottom: 12px;
   font-size: 18px;
 }
 .cell:nth-child(even) {
-  background-color: #001c3b;
+  background-color: #a42423;
 }
 
 .cell-content {
